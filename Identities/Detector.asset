@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 784b3a489e7041aca56eb610d502057c, type: 3}
+  m_Name: Detector
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 21300000, guid: c060cb5a731c2594fb2e4e39426e4ce0,
+    type: 3}
+  <DefaultImposter>k__BackingField: 1
+  <Identity>k__BackingField: 2
+  <Name>k__BackingField: "\u4FA6\u63A2\u72FC"
+  <Introduction>k__BackingField: "\u4F60\u53EF\u4EE5\u77E5\u9053\u5176\u4ED6\u4EBA\u7684\u8EAB\u4EFD"
+  <Description>k__BackingField: 
+  <SkillCooldown>k__BackingField: 0
